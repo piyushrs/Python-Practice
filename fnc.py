@@ -1,0 +1,1 @@
+print((float(input("Enter value in celsius\n"))*1.8)+32)
